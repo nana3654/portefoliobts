@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Portefolio</title>
+    <link rel="stylesheet" href="./style/style.css">
+ 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Orbitron:wght@400..900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+
+<h1>Portefolio BTS SIO</h1>
+
+</body>
+

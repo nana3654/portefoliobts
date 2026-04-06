@@ -1,0 +1,9 @@
+body {
+    background-image: url("../img/background.jpg");
+}
+
+h1 {
+    font-family: 'orbitron';
+    text-align: center;
+    font-size: 60px;
+}
