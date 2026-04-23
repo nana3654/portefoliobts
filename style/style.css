@@ -7,3 +7,52 @@ h1 {
     text-align: center;
     font-size: 60px;
 }
+
+h2 {
+    font-family: 'orbitron';
+    text-align: center;
+    font-size: 40px;
+    text-shadow:
+        0 0 7px #ffffff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px rgb(255, 255, 255),
+        0 0 82px rgb(255, 255, 255),
+        0 0 92px rgb(255, 255, 255),
+        0 0 102px rgb(255, 255, 255),
+        0 0 151px rgb(255, 255, 255);
+}
+
+img{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+
+.demi{
+    width: 25%;
+    margin-bottom: 10px;
+}
+
+button{
+    display: block;
+    font-family: 'orbitron';
+    font-size: 17px;
+   
+    background-color: rgb(144, 157, 219);
+    width: 200px;
+    height: 100px;
+}
+
+button:hover{
+    background-color: rgb(88, 96, 134);
+}
+
+div{
+    display: flex;
+}
